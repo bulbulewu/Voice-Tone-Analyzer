@@ -1,0 +1,7 @@
+{
+  "name": "Voice Tone Analyzer",
+  "description": "Upload a 30-60 second audio clip of a voice and get a detailed description of its tone, pitch, and characteristics. Use this description to help create a similar voice with Text-to-Speech tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
